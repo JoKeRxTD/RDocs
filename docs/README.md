@@ -4,8 +4,8 @@ You can find the online version of the RageUI documentation at https://rageui.ri
 
 
 - ## Getting Started
-    - [Installation](/docs/installation)
-    - [Getting Started](/docs/getting-started)
+    - [Installation](/docs/installation.md)
+    - [Getting Started](/docs/getting-started.md)
 - ## Utils
    - [RMenu](/docs/rmenu.md)
    - [Keys](/docs/keys.md)
