@@ -1,3 +1,34 @@
 RageUI Documentation
 
 You can find the online version of the RageUI documentation at https://rageui.riveria.fr/docs/master
+
+
+- ## Getting Started
+    - [Installation](/docs/installation)
+    - [Getting Started](/docs/getting-started)
+- ## Utils
+   - [RMenu](/docs/rmenu.md)
+   - [Keys](/docs/keys.md)
+   - [Visual](/docs/visual.md)
+- ## Menu
+   - [Create Menu](/docs/create-menu.md)
+   - [Create SubMenu](/docs/create-submenu.md)
+   - [Menu Settings](/docs/menu-settings.md)
+- ## Items
+   - [Button](/docs/item-button.md)
+   - [Check Box](/docs/item-checkbox.md)
+   - [Lists](/docs/item-lists.md)
+   - [Progress](/docs/item-progress.md)
+   - [Separator](/docs//item-separator.md)
+   - [Slider](/docs/item-slider)
+   - [Slider Heritage](/docs/item-slider-heritage.md)
+   - [Slider Progress](/docs/item-slider-progress.md)
+- ## Panels
+   - [Grid Panel](/docs/panel-grid.md)
+   - [Vertical Grid Panel](/docs/panel-vertical-grid.md)
+   - [Horizontal Grid Panel](/docs/panel-horizontal-grid.md)
+   - [Colour Panel](/docs/panel-colour.md)
+   - [Percentage Panel](/docs/panel-percentage.md)
+   - [Statistics Panel](/docs/panel-statitics.md)
+- ## Windows
+   - [Heritage](/docs/window-heritage.md)
