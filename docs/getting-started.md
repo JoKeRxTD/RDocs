@@ -11,7 +11,7 @@ Once the installation is done you just have to create a client-side file in whic
 <a name="create-menu"></a>
 ### Create a menu
 
-To create your menu we will use the [RMenu](/docs/{{version}}/rmenu) utility provided with RageUI, if you want to understand how it works I invite you to check by yourself on the documentation.
+To create your menu we will use the [RMenu](/docs/rmenu) utility provided with RageUI, if you want to understand how it works I invite you to check by yourself on the documentation.
 
     RMenu.Add('showcase', 'main', RageUI.CreateMenu("RageUI", "showcase"))
     
@@ -22,7 +22,7 @@ You have just created your first menu, this one and instantiate it in a distance
 
 Now with a new feature in RageUI you can now manage opening and closing in Menu while having the possibility to change the key in your game settings.
 
-For this we will use [Keys](/docs/{{version}}/keys)
+For this we will use [Keys](/docs/keys)
 
     Keys.Register('E', 'E', 'Open RageUI Showcase menu default.', function()
         RageUI.Visible(RMenu:Get('showcase', 'main'), not RageUI.Visible(RMenu:Get('showcase', 'main')))
@@ -51,7 +51,7 @@ In the display loop of your menu just use the RageUI.IsVisible function, here is
                 })
         end)
 
-Once this is done if you press the E key you will see the menu you have just created displayed with a [basic button.](/docs/{{version}}/item-button)
+Once this is done if you press the E key you will see the menu you have just created displayed with a [basic button.](/docs/item-button)
  
 <a name="result"></a>
 ### The result you must have obtained
